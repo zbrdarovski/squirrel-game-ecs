@@ -1,0 +1,48 @@
+
+gameplay.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 198
+  size: 546, 273
+  orig: 546, 273
+  offset: 0, 0
+  index: -1
+basket
+  rotate: false
+  xy: 2, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+blanket
+  rotate: false
+  xy: 550, 343
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hazelnut
+  rotate: false
+  xy: 132, 164
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 550, 309
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+squirrel
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
