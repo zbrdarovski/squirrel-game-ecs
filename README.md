@@ -1,18 +1,18 @@
-# Stop The Squirrels ECS (Ustavite veverice ECS)
+* # Stop The Squirrels ECS
 
-### Dinamiko igre:
-* sezona lešnikov je, uporabite košaro, da naberete lešnike, preden jih veverice pograbijo.
+### Dynamics:
+* it's hazelnut season, use the basket to collect hazelnuts, before the squirrels snatch them.
 
-**Pozor: v košaro ne dovolite veveric.**
+**Caution: don't let squirrels enter the basket.**
 
-### Mehaniko igre:
-* manveri s košaro, prikradanje veverice, pad lešnikov, obiranje lešnikov in konec igre.
+### Mechanics:
+* basket manouvers, sneaking of squirrels, collecting hazelnuts and end of game.
 
-### Elemente igre:
-* [slika: ozadje](https://icons8.com/photos/photo/bark-of-an-old-tree--5a1e30588b6588000131a119) (dodano 09.10.2021)
-* [slika: košara](https://www.flaticon.com/premium-icon/picnic-basket_1135718?term=basket&page=1&position=2&page=1&position=2&related_id=1135718&origin=search) (dodano 09.10.2021)
-* [slika: veverica](https://www.flaticon.com/free-icon/squirrel_1864534?term=squirrel&page=1&position=1&page=1&position=1&related_id=1864534&origin=search) (dodano 09.10.2021)
-* [slika: lešnik](https://www.flaticon.com/free-icon/hazelnut_3439365?term=hazelnut&page=1&position=19&page=1&position=19&related_id=3439365&origin=tag) (dodano 09.10.2021)
-* pisavo: rezultat (število lešnikov v košari, dodano 09.10.2021)
-* [zvok: lešnik](https://freesound.org/s/344518/) (dodano 09.10.2021) in
-* [zvok: konec](https://freesound.org/s/519986/) (dodano 09.10.2021).
+### Assets:
+* [image: background](https://icons8.com/photos/photo/bark-of-an-old-tree--5a1e30588b6588000131a119) (added 09.10.2021)
+* [image: basket](https://www.flaticon.com/premium-icon/picnic-basket_1135718?term=basket&page=1&position=2&page=1&position=2&related_id=1135718&origin=search) (added 09.10.2021)
+* [image: squirrel](https://www.flaticon.com/free-icon/squirrel_1864534?term=squirrel&page=1&position=1&page=1&position=1&related_id=1864534&origin=search) (added 09.10.2021)
+* [image: hazelnut](https://www.flaticon.com/free-icon/hazelnut_3439365?term=hazelnut&page=1&position=19&page=1&position=19&related_id=3439365&origin=tag) (added 09.10.2021)
+* font: end result (number of hazelnuts in the basket, added 09.10.2021)
+* [sound: hazelnut](https://freesound.org/s/344518/) (added 09.10.2021) and
+* [sound: end](https://freesound.org/s/519986/) (added 09.10.2021).
