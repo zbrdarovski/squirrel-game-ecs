@@ -1,4 +1,4 @@
-* # Stop The Squirrels ECS
+# Stop The Squirrels ECS
 
 ### Dynamics:
 * it's hazelnut season, use the basket to collect hazelnuts, before the squirrels snatch them.
