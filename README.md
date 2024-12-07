@@ -12,6 +12,24 @@ It's hazelnut season, use the basket to collect hazelnuts, before the squirrels 
 - Collecting hazelnuts
 - End of game
 
+## Entity Component System
+
+The game uses an ECS structure for improved performance and flexibility, with files structured as follows:
+
+Components
+- Located in `core/src/com/mygdx/game/ecs/component/`
+- Define the attributes for different game entities
+
+Systems
+- Located in `core/src/com/mygdx/game/ecs/system/`
+- Implement the logic for the game's mechanics, such as spawning, movement, collisions, and rendering
+
+Entity Management
+
+The game integrates entities and components dynamically, enabling complex behavior without tight coupling between entities and systems.
+
+This architecture ensures that the game's code remains modular and reusable, enabling new features (like new entity types or gameplay mechanics) to be added with minimal changes to the existing codebase.
+
 ## Assets
 - [Background image](https://icons8.com/photos/photo/bark-of-an-old-tree--5a1e30588b6588000131a119) (added 09.10.2021)
 - [Basket image](https://www.flaticon.com/premium-icon/picnic-basket_1135718?term=basket&page=1&position=2&page=1&position=2&related_id=1135718&origin=search) (added 09.10.2021)
