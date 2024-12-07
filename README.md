@@ -1,4 +1,4 @@
-# Stop The Squirrels
+# Stop The Squirrels ECS
 
 ## Dynamics
 
