@@ -75,3 +75,7 @@ Image 2: Preview of the structured programming implementation.
 ![previewOOP](images/previewOOP.PNG?raw=true "Preview of the object oriented programming implementation.")
 
 Image 3: Preview of the object oriented programming implementation.
+
+## License
+This project is not licensed for public use. The code is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
